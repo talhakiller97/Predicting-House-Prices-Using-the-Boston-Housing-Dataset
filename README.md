@@ -43,7 +43,7 @@ XGBoost RMSE: 498624.20, R²: 0.22
    ```
 2. Run the script:
    ```sh
-   python task4.py
+   python main.py
    ```
 
 ## Visualizations
@@ -53,7 +53,7 @@ XGBoost RMSE: 498624.20, R²: 0.22
 ## Notes
 - The dataset must be placed at the correct path:
   ```
-  C:\Users\Talha Saeed\PycharmProjects\PythonProjectTask1\house predictionn dataset\data.csv
+  C:\Users\Talha Saeed\PycharmProjects\house predictionn dataset\data.csv
   ```
 - Ensure the script is executed within the virtual environment if using one.
 
