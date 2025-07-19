@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the provided dataset
-csv_path = r"C:\Users\Talha Saeed\PycharmProjects\PythonProjectTask1\house predictionn dataset\data.csv"
+csv_path = r"C:\Users\Talha Saeed\PycharmProjects\house predictionn dataset\data.csv"
 df = pd.read_csv(csv_path)
 
 # Selecting relevant features and target
